@@ -1,0 +1,16 @@
+[
+{
+  "modid": "minethrough",
+  "name": "Mine Through",
+  "description": "Allows players on different networks to play together without a server or port forwarding.",
+  "version": "1.1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["tommy__123__"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
